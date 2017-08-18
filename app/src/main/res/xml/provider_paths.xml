@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+
+    <!--name tag contains folder name where you save image-->
+    <external-path
+        name="GeoTag"
+        path="GeoTag/" />
+</paths>

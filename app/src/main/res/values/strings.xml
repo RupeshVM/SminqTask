@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SminqTask</string>
+    <string name="titleEmpty">Empty Task</string>
+    <string name="titleTaskList">Tasks</string>
+    <string name="hintLocationName">Enter Location Name</string>
+    <string name="titleLocationName">Location Name</string>
+    <string name="titleGeoTag">Capture Photo</string>
+    <string name="error_location_name">Please enter location name</string>
+    <string name="uploading">Uploading please wait</string>
+    <string name="upload_success">File Uploaded successfully</string>
+    <string name="upload_error">Upload error , please try again</string>
+    <string name="upload_cancelled">Upload Cancel</string>
+</resources>
